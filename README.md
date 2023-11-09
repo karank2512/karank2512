@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: **kkapur@wisc.edu**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/17Cx9DWfFdk3GTx-toMNHQqWb0AS5u29T/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/19wZo3tXH8txUayfN_QlcLUWu5nA4SJWd/view?usp=sharing)
 
 - ⚡ Fun fact: **I can bench 225**
 
