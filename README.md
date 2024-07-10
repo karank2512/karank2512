@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Kapur</h1>
-<h3 align="center">A sophomore studying Computer Science at University of Wisconsin - Madison</h3>
+<h3 align="center">A Junior studying Computer Science and Data Science at University of Wisconsin - Madison</h3>
 
 - 📫 How to reach me: **kkapur@wisc.edu**
 
