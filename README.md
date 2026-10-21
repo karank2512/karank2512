@@ -15,9 +15,4 @@ I build infrastructure that makes AI agents fast and safe to run.
   <img src="https://skillicons.dev/icons?i=python,typescript,rust,react,nextjs,fastapi,postgres,redis,docker,aws&perline=10" />
 </p>
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karank2512&show_icons=true&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karank2512&layout=compact&hide_border=true" />
-</p>
-
 📫 kkapur5@wisc.edu · [karankapur.com](https://karankapur.com) · [LinkedIn](https://linkedin.com/in/karankapur5)
