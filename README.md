@@ -1,17 +1,23 @@
-<h1 align="center">Hi 👋, I'm Karan Kapur</h1>
-<h3 align="center">A Junior studying Computer Science and Data Science at University of Wisconsin - Madison</h3>
+<img width="100%" alt="Karan Kapur - builds infrastructure for AI agents" src="banner.png" />
 
-- 📫 How to reach me: **kkapur@wisc.edu**
+### Hi, I'm Karan
 
-- 📄 Know about my experiences: [Resume]([https://drive.google.com/file/d/1zbolOuPbVSc4j2WHYCkJhuApmk_wiR4j/view?usp=drive_link])
+I build infrastructure that makes AI agents fast and safe to run.
 
-- ⚡ Fun fact: **I can bench 225**
+- ❄️ Co-founded [thaw](https://github.com/karank2512/thaw): git for live LLM sessions. A session forks in 0.88s instead of a ~340s cold boot on H100s.
+- ⚙️ Built [Foreman](https://github.com/karank2512/Foreman): an agentic workforce platform where every external action waits for human approval and every run is scored 3 ways.
+- 📈 Built [tell](https://github.com/karank2512/tell-ai): explainable buying signals. 907 companies, 10,585 postings, 97.8% run success over 321 runs.
+- 📊 Built [RelayIQ](https://github.com/karank2512/RelayIQ): an agentic decision engine that cut cost per usable lead 3.3x on a 495-case seeded benchmark.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/karan-kapur-895b26211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-kapur-895b26211" height="30" width="40" /></a>
-<a href="https://instagram.com/kkkarxnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kkkarxnn" height="30" width="40" /></a>
+🎓 UW-Madison CS + Data Science, May 2026 &nbsp;·&nbsp; Open to FDE, GTM, and founding engineer roles in NYC or SF
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,rust,react,nextjs,fastapi,postgres,redis,docker,aws&perline=10" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karank2512&show_icons=true&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karank2512&layout=compact&hide_border=true" />
+</p>
+
+📫 kkapur5@wisc.edu · [karankapur.com](https://karankapur.com) · [LinkedIn](https://linkedin.com/in/karankapur5)
